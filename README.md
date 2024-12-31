@@ -2,7 +2,7 @@ Ahmad's Front-End Developer Portfolio
 
 Welcome to my professional portfolio repository! I'm M. Ahmad, a front-end developer passionate about crafting responsive and user-friendly web applications. This portfolio highlights my skills, projects, and journey in the web development field.
 
-Visit my live portfolio at: https://ahmadsportfolio-com.github.io/Ahmad-portfolio-
+Visit my live portfolio at: https://ahmadportfolio.github.io/Ahmadsportfolio/
 
 
 ---
@@ -17,8 +17,6 @@ Responsive Design: Ensuring mobile-first, adaptive layouts.
 
 Performance Optimization: Achieving high scores with Lighthouse audits.
 
-
-JavaScript Frameworks: Proficiency in frameworks like React and Vue.js.
 
 
 
