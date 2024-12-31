@@ -2,7 +2,7 @@ Ahmad's Front-End Developer Portfolio
 
 Welcome to my professional portfolio repository! I'm M. Ahmad, a front-end developer passionate about crafting responsive and user-friendly web applications. This portfolio highlights my skills, projects, and journey in the web development field.
 
-Visit my live portfolio at: https://ahmadsportfolio-com.github.io/Ahmad-portfolio-
+Visit my live portfolio at: https://ahmadsportfolio.github.io/Ahmadsportfolio
 
 
 ---
